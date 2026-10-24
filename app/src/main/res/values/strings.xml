@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Custom AppLock Studio</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="a11y_description">Custom AppLock Studio uses this service only to detect which app has just opened, so it can show your lock screen on top of the apps you chose to protect. It does not read, store or send any screen content.</string>
+    <string name="guard_channel">App Lock protection</string>
+</resources>

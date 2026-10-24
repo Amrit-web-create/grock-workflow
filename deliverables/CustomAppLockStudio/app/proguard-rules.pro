@@ -1,0 +1,3 @@
+-keep class com.customapplock.studio.data.local.** { *; }
+-keep class * extends androidx.room.RoomDatabase
+-dontwarn androidx.security.**

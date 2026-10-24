@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AppLock Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 149,
+      "bodyTextHash": "f78b6cd78cc932af10df25ef1b8d1f551c749e16176fc00f8875e31d0a552d3b",
+      "bodyTextPrefix": "APPLOCK STUDIO A private lock for each app. Ten different locks.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AppLock Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 149,
+      "bodyTextHash": "f78b6cd78cc932af10df25ef1b8d1f551c749e16176fc00f8875e31d0a552d3b",
+      "bodyTextPrefix": "APPLOCK STUDIO A private lock for each app. Ten different locks.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
